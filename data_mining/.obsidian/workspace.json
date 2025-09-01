@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e48b973a7963468c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df707492d42897e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9e5326db4fd87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be8f2ea8cf8741c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0baa984b5d70dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f97e134887be8a8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33ef66e38fe6137f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bd2d71b0e0f6e99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f261dbbf26df47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb23eb226e1d39f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec38e910b30a7cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python Basic 5 - Count Sort and Plot"
+            }
+          },
+          {
+            "id": "1b36f7f66826ae0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Basic 5 - Count Sort and Plot"
+            }
+          },
+          {
+            "id": "5ad9906327e6180e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8d2f72697d68c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Basic 5 - Count Sort and Plot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f97e134887be8a8d",
+  "lastOpenFiles": [
+    "python basic/Python Basic 3- Loop and Condition.pdf",
+    "python basic/Python Basic 1- Hello World.pdf",
+    "Session0-Orientation Handout.pdf",
+    "python basic/Python Basic 2- Overview.pdf",
+    "python basic/Python Basic 4 - Dictionary.pdf",
+    "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+    "python basic",
+    "orientation.md",
+    "Welcome.md"
+  ]
+}
