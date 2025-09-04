@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "e48b973a7963468c",
+    "id": "ab2ab40fe5dd5ee3",
     "type": "split",
     "children": [
       {
-        "id": "4df707492d42897e",
+        "id": "1668ff6c92d506c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9e5326db4fd87b",
+            "id": "76b03d961c74250f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orientation.md",
+                "file": "some trivia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "orientation"
+              "title": "some trivia"
+            }
+          },
+          {
+            "id": "db0df7dd71d03560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "be8f2ea8cf8741c9",
+    "id": "8ae1781e503ef864",
     "type": "split",
     "children": [
       {
-        "id": "c0baa984b5d70dd2",
+        "id": "cfa90ad539d20755",
         "type": "tabs",
         "children": [
           {
-            "id": "f97e134887be8a8d",
+            "id": "7f622199d8e5a8ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "33ef66e38fe6137f",
+            "id": "ad89a90e1e5e0a11",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "4bd2d71b0e0f6e99",
+            "id": "e1e5bd4f676f52c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "7f261dbbf26df47b",
+    "id": "01fb5b71f4f756c4",
     "type": "split",
     "children": [
       {
-        "id": "5cb23eb226e1d39f",
+        "id": "896798e8a1de14bb",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec38e910b30a7cc",
+            "id": "251e5627dd5b64d2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "file": "week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python Basic 5 - Count Sort and Plot"
+              "title": "Backlinks for week1"
             }
           },
           {
-            "id": "1b36f7f66826ae0b",
+            "id": "b3cc048eefd809f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "file": "week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python Basic 5 - Count Sort and Plot"
+              "title": "Outgoing links from week1"
             }
           },
           {
-            "id": "5ad9906327e6180e",
+            "id": "3a9f357e7967398f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +152,18 @@
             }
           },
           {
-            "id": "c8d2f72697d68c26",
+            "id": "3c6edd5080265afa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "file": "week1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python Basic 5 - Count Sort and Plot"
+              "title": "Outline of week1"
             }
           }
         ]
@@ -169,18 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f9e5326db4fd87b",
+  "active": "db0df7dd71d03560",
   "lastOpenFiles": [
-    "python basic/Python Basic 5 - Count Sort and Plot.pdf",
-    "Session0-Orientation Handout.pdf",
-    "python basic/Python Basic 4 - Dictionary.pdf",
-    "python basic/Python Basic 3- Loop and Condition.pdf",
-    "python basic/date.py~",
-    "python basic/date.py",
-    "orientation.md",
-    "python basic/Python Basic 1- Hello World.pdf",
-    "python basic/Python Basic 2- Overview.pdf",
-    "python basic",
-    "Welcome.md"
+    "some trivia.md",
+    "week1.md",
+    "GDB Basics.pdf",
+    "Makefile Basics.pdf"
   ]
 }

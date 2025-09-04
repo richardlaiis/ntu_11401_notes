@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "e48b973a7963468c",
+    "id": "cd4929e9268394b1",
     "type": "split",
     "children": [
       {
-        "id": "4df707492d42897e",
+        "id": "3c9090ec33d14794",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9e5326db4fd87b",
+            "id": "3a7cf7dbaeaddb24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orientation.md",
+                "file": "some info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "orientation"
+              "title": "some info"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e59f22a10aa665c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338b967952a3710c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be8f2ea8cf8741c9",
+    "id": "1a4b2d533c1a2e24",
     "type": "split",
     "children": [
       {
-        "id": "c0baa984b5d70dd2",
+        "id": "7f579a33ed8973b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f97e134887be8a8d",
+            "id": "0c916b3db1b7a684",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "33ef66e38fe6137f",
+            "id": "8a6ce5d17f71598a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "4bd2d71b0e0f6e99",
+            "id": "e445faf06664e603",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "7f261dbbf26df47b",
+    "id": "c4915bcd4dc545ba",
     "type": "split",
     "children": [
       {
-        "id": "5cb23eb226e1d39f",
+        "id": "a4c1c6332e62567a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec38e910b30a7cc",
+            "id": "35ccf86c818aea13",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "file": "some info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python Basic 5 - Count Sort and Plot"
+              "title": "Backlinks for some info"
             }
           },
           {
-            "id": "1b36f7f66826ae0b",
+            "id": "0c402bcd560521a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "file": "some info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python Basic 5 - Count Sort and Plot"
+              "title": "Outgoing links from some info"
             }
           },
           {
-            "id": "5ad9906327e6180e",
+            "id": "25c5cad8798e543d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +153,18 @@
             }
           },
           {
-            "id": "c8d2f72697d68c26",
+            "id": "20bc783953749310",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "python basic/Python Basic 5 - Count Sort and Plot.pdf",
+                "file": "some info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python Basic 5 - Count Sort and Plot"
+              "title": "Outline of some info"
             }
           }
         ]
@@ -169,18 +185,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f9e5326db4fd87b",
+  "active": "3a7cf7dbaeaddb24",
   "lastOpenFiles": [
-    "python basic/Python Basic 5 - Count Sort and Plot.pdf",
-    "Session0-Orientation Handout.pdf",
-    "python basic/Python Basic 4 - Dictionary.pdf",
-    "python basic/Python Basic 3- Loop and Condition.pdf",
-    "python basic/date.py~",
-    "python basic/date.py",
-    "orientation.md",
-    "python basic/Python Basic 1- Hello World.pdf",
-    "python basic/Python Basic 2- Overview.pdf",
-    "python basic",
-    "Welcome.md"
+    "some info.md"
   ]
 }
