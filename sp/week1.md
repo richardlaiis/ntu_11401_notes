@@ -22,9 +22,12 @@ kill
 gcc -c
 ```
 Compile or assemble the source files, but do not link. The linking stage simply is not done. The ultimate output is in the form of an object file for each source file.
-
+```
+gcc -Wall main.c -o main
+```
+This enables all the warnings about constructions that some users consider questionable, and that are easy to avoid (or modify to prevent the warning), even in conjunction with macros.
 ## OS concept
 + Every CPU knows its own ISA (Instruction Set Architecture)
-![[Pasted image 20250906193231.png]]
 + micro-architecture: Data path, Control path
-![[Pasted image 20250906195247.png]]![[Pasted image 20250906195501.png]]
+## course slide (screenshot)
+https://drive.google.com/drive/folders/1NYrvnYXX1VeVUF-_PwQimv49yaINVIoe?usp=sharing

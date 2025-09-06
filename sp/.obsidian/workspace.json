@@ -11,12 +11,14 @@
             "id": "76b03d961c74250f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250906195501.png"
+                "file": "week1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250906195501"
+              "icon": "lucide-file",
+              "title": "week1"
             }
           },
           {
@@ -181,10 +183,11 @@
   },
   "active": "76b03d961c74250f",
   "lastOpenFiles": [
-    "Pasted image 20250906193231.png",
+    "Pasted image 20250906215851.png",
+    "week1.md",
     "Pasted image 20250906195247.png",
     "Pasted image 20250906195501.png",
-    "week1.md",
+    "Pasted image 20250906193231.png",
     "some trivia.md",
     "Makefile Basics.pdf",
     "GDB Basics.pdf"
