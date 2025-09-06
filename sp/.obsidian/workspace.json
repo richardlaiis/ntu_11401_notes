@@ -11,32 +11,27 @@
             "id": "76b03d961c74250f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "some trivia.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250906195501.png"
               },
-              "icon": "lucide-file",
-              "title": "some trivia"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250906195501"
             }
           },
           {
             "id": "db0df7dd71d03560",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "week1.md",
-                "mode": "source",
-                "source": false
+                "file": "Makefile Basics.pdf"
               },
-              "icon": "lucide-file",
-              "title": "week1"
+              "icon": "lucide-file-text",
+              "title": "Makefile Basics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,11 +179,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "db0df7dd71d03560",
+  "active": "76b03d961c74250f",
   "lastOpenFiles": [
-    "some trivia.md",
+    "Pasted image 20250906193231.png",
+    "Pasted image 20250906195247.png",
+    "Pasted image 20250906195501.png",
     "week1.md",
-    "GDB Basics.pdf",
-    "Makefile Basics.pdf"
+    "some trivia.md",
+    "Makefile Basics.pdf",
+    "GDB Basics.pdf"
   ]
 }
